@@ -9,3 +9,7 @@ Then:
 
 Or:
 "mvn spring-boot:run"
+
+In your browser go to:
+
+http://localhost:8080/greeting for a generic greeting or http://localhost:8080/greeting?name=yourName for a customised message.
